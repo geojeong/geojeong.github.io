@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: 정상혁 GIS 블로그
 permalink: /
 ---
 
