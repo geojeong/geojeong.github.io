@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            정상혁 GIS 블로그
+longtitle:        정상혁 GIS 블로그
+author:           Sanghyeok Jeong
+email:            nacl31566@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  GIS 관련 지식을 정리해 놓은 블로그
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://geojeong.github.io'
+baseurl:          '/'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
