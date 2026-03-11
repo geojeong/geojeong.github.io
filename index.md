@@ -1,5 +1,3 @@
-
-
 ---
 layout: home
 title: Home
@@ -22,3 +20,4 @@ title: Home
 ## Recent Posts
 
 아래에는 최근 작성한 글이 표시됩니다.
+
