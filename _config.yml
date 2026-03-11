@@ -4,7 +4,11 @@ theme: minima
 
 markdown: kramdown
 
+kramdown:
+  input: GFM
+
 header_pages:
   - about.md
+
 minima:
   skin: classic
